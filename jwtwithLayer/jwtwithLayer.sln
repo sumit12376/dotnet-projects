@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jwtwithLayer", "jwtwithLayer\jwtwithLayer.csproj", "{FD4D98FD-5DA1-4E26-B786-F12EF9E5819D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{3C1F479A-5FD4-43DC-923B-400299DD3563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4D98FD-5DA1-4E26-B786-F12EF9E5819D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4D98FD-5DA1-4E26-B786-F12EF9E5819D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4D98FD-5DA1-4E26-B786-F12EF9E5819D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4D98FD-5DA1-4E26-B786-F12EF9E5819D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1F479A-5FD4-43DC-923B-400299DD3563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1F479A-5FD4-43DC-923B-400299DD3563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1F479A-5FD4-43DC-923B-400299DD3563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1F479A-5FD4-43DC-923B-400299DD3563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FA2C18C-B566-4C8F-93CF-237B8109D510}
+	EndGlobalSection
+EndGlobal
